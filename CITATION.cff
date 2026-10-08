@@ -1,0 +1,10 @@
+@software{molly_wilson_2026_23239794,
+  author       = {Molly Wilson},
+  title        = {molwilson/antigua-agrra: Initial release},
+  month        = oct,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {0.1},
+  doi          = {10.5281/zenodo.23239794},
+  url          = {https://doi.org/10.5281/zenodo.23239794},
+}
